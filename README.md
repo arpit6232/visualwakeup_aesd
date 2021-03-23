@@ -2,6 +2,8 @@
 
 This repository contains Tensorflow 2.0 code to fine-tune a pretrained MobileNetV1 model on the Visual Wake Words dataset, and export the trained model to Tensorflow Lite for Microcontrollers. 
 
+This code is modified version of the code for code at https://github.com/tensorflow/tensorflow/blob/master/tensorflow/lite/micro/examples/person_detection/training_a_model.md
+
 ## Quick Start
 
 
